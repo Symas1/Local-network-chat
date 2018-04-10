@@ -1,1 +1,1 @@
-# Local-network-chat
+A chat for local network based on the TCP protocol.
